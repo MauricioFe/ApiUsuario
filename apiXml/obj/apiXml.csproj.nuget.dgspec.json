@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mauri\\source\\repos\\apiXml\\apiXml\\apiXml.csproj": {}
+    "D:\\Treinamento\\Android\\3º Etapa\\Api com XML\\Api\\apiXml\\apiXml\\apiXml.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mauri\\source\\repos\\apiXml\\apiXml\\apiXml.csproj": {
+    "D:\\Treinamento\\Android\\3º Etapa\\Api com XML\\Api\\apiXml\\apiXml\\apiXml.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mauri\\source\\repos\\apiXml\\apiXml\\apiXml.csproj",
+        "projectUniqueName": "D:\\Treinamento\\Android\\3º Etapa\\Api com XML\\Api\\apiXml\\apiXml\\apiXml.csproj",
         "projectName": "apiXml",
-        "projectPath": "C:\\Users\\mauri\\source\\repos\\apiXml\\apiXml\\apiXml.csproj",
+        "projectPath": "D:\\Treinamento\\Android\\3º Etapa\\Api com XML\\Api\\apiXml\\apiXml\\apiXml.csproj",
         "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mauri\\source\\repos\\apiXml\\apiXml\\obj\\",
+        "outputPath": "D:\\Treinamento\\Android\\3º Etapa\\Api com XML\\Api\\apiXml\\apiXml\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,10 @@
         "netcoreapp3.1": {
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
               "version": "[3.1.5, )"
             }

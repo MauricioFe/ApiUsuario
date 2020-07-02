@@ -26,11 +26,11 @@ namespace apiXml.Persistence
             builder.Entity<Usuario>().Property(u => u.Idade).IsRequired();
 
             builder.Entity<Usuario>().HasData(
-                new Usuario { Nome = "Mauricio Lacerda", Idade = 20 },
-                new Usuario { Nome = "Fernanda Leal", Idade = 19 }
+                new Usuario { Id = 1, Nome = "Mauricio Lacerda", Idade = 20 },
+                new Usuario { Id = 2, Nome = "Fernanda Leal", Idade = 19 }
                 );
 
         }
-        
+
     }
 }
