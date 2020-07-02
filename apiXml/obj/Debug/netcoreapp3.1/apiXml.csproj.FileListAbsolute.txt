@@ -54,3 +54,7 @@ D:\Treinamento\Android\3º Etapa\Api com XML\Api\apiXml\apiXml\obj\Debug\netcore
 D:\Treinamento\Android\3º Etapa\Api com XML\Api\apiXml\apiXml\obj\Debug\netcoreapp3.1\apiXml.dll
 D:\Treinamento\Android\3º Etapa\Api com XML\Api\apiXml\apiXml\obj\Debug\netcoreapp3.1\apiXml.pdb
 D:\Treinamento\Android\3º Etapa\Api com XML\Api\apiXml\apiXml\obj\Debug\netcoreapp3.1\apiXml.genruntimeconfig.cache
+D:\Treinamento\Android\3º Etapa\Api com XML\Api\apiXml\apiXml\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Treinamento\Android\3º Etapa\Api com XML\Api\apiXml\apiXml\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Treinamento\Android\3º Etapa\Api com XML\Api\apiXml\apiXml\obj\Debug\netcoreapp3.1\apiXml.csproj.CoreCompileInputs.cache
+D:\Treinamento\Android\3º Etapa\Api com XML\Api\apiXml\apiXml\obj\Debug\netcoreapp3.1\apiXml.MvcApplicationPartsAssemblyInfo.cache

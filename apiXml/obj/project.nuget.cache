@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dX033gWZEWTbUhMOsvv/UYelWmWRJf8N0d0l+4XklwpmypkDVxZTK7M5kNHkcn+krNiMePn9NN3IijFA+PWtCg==",
+  "dgSpecHash": "BgiE2hNuPiGOQsQrb2CR+yiiK8jOiPuoNKyFzij9ZGghWowmgJ3egB65gAi3USZTBxfjBCwguT2W2Se94aEK2w==",
   "success": true,
   "projectFilePath": "D:\\Treinamento\\Android\\3º Etapa\\Api com XML\\Api\\apiXml\\apiXml\\apiXml.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\mauri\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.5\\microsoft.entityframeworkcore.3.1.5.nupkg.sha512",
     "C:\\Users\\mauri\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.5\\microsoft.entityframeworkcore.abstractions.3.1.5.nupkg.sha512",
     "C:\\Users\\mauri\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.5\\microsoft.entityframeworkcore.analyzers.3.1.5.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\3.1.5\\microsoft.entityframeworkcore.inmemory.3.1.5.nupkg.sha512",
     "C:\\Users\\mauri\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.5\\microsoft.entityframeworkcore.relational.3.1.5.nupkg.sha512",
     "C:\\Users\\mauri\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.5\\microsoft.extensions.caching.abstractions.3.1.5.nupkg.sha512",
     "C:\\Users\\mauri\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.5\\microsoft.extensions.caching.memory.3.1.5.nupkg.sha512",

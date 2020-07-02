@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace apiXml.Persistence
+namespace apiXml.Persistence.Context
 {
     public class AppDbContext : DbContext
     {
